@@ -1,3 +1,7 @@
+![moodle 3](https://img.shields.io/badge/Moodle-3-brightgreen) ![moodle 4beta](https://img.shields.io/badge/Moodle-4beta-brightgreen)
+
+![Licence CC by nc](https://github.com/fxpar/MoodleDesignFr/blob/main/by-nc.eu.svg)
+
 # MoodleDesign FR
 Téléchargez une page d'exemple et de formation au Design Moodle avec les composants bootstrap et FontAwesome
 * Entêtes (jumbotron): exemple et vidéo
