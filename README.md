@@ -7,10 +7,7 @@ Téléchargez une page d'exemple et de formation au Design Moodle avec les compo
 * Cards: simple, avec image, triples
 * Alertes: exemples
 * Couleurs: exemple dans les boutons et les alertes
-* 
-
-# Page en anglais
-Vous trouverez la page anglaise à l'adresse MoodleDesignEN
+* Accordéon: exemples e vidéo
 
 
 Astuces pour designer les pages de cours.
@@ -18,21 +15,21 @@ Astuces pour designer les pages de cours.
 # Listes
 Aérez vos instructions avec ces listes plus sympathiques
 
-[![Saisir absences](https://i.ytimg.com/vi/JdeyVMi2W8U/hqdefault.jpg)](
+[![Moodle Design Listes](https://i.ytimg.com/vi/JdeyVMi2W8U/hqdefault.jpg)](
 https://www.youtube.com/watch?v=JdeyVMi2W8U)
 
 # Entêtes
 
 Affichez clairement le thème d'une séance, et énoncez les objectifs en mode grand format.
 
-[![Saisir absences](https://i.ytimg.com/vi/MjYRA2s07C0/hqdefault.jpg)](
+[![Moodle Bootstrap Entête Jumbotron](https://i.ytimg.com/vi/MjYRA2s07C0/hqdefault.jpg)](
 https://www.youtube.com/watch?v=MjYRA2s07C0)
 
 # Boutons et Liens
 
 Réutilisez les activités... sans avoir à les déplacer. Une bonne façon de rappeler les étapes d'une préparation aux étudiants.
 
-[![Saisir absences](https://i.ytimg.com/vi/73FQHTYExRw/hqdefault.jpg)](
+[![Moodle Design Boutons et Liens](https://i.ytimg.com/vi/73FQHTYExRw/hqdefault.jpg)](
 https://www.youtube.com/watch?v=73FQHTYExRw)
 
 # Accordéon
@@ -42,7 +39,7 @@ Vous aimeriez qu'ils ou elles puissent afficher progressivement les ressources q
 Voici l'accordéon, déjà inclus dans moodle, accessible par un simple copier coller 😍
 
 
-[![Saisir absences](https://i.ytimg.com/vi/_GxoVIpuLuE/hqdefault.jpg)](
+[![Moodle Design Accordéon](https://i.ytimg.com/vi/_GxoVIpuLuE/hqdefault.jpg)](
 https://www.youtube.com/watch?v=_GxoVIpuLuE)
 
 # Icônes
@@ -51,7 +48,7 @@ https://www.youtube.com/watch?v=_GxoVIpuLuE)
 Et puis c'est tellement plus parlant 😁
 
 
-[![Saisir absences](https://i.ytimg.com/vi/tFZ0o1M-PtQ/hqdefault.jpg)](
+[![Moodle Icônes FontAwesome](https://i.ytimg.com/vi/tFZ0o1M-PtQ/hqdefault.jpg)](
 https://www.youtube.com/watch?v=tFZ0o1M-PtQ)
 
 # Télécharger les exemples
@@ -60,8 +57,10 @@ https://github.com/fxpar/MoodleDesignFr
 ou la version anglaise
 https://github.com/fxpar/MoodleDesignEn
 
-#Version Anglaise
+# Version Anglaise
+Vous trouverez la page anglaise à l'adresse MoodleDesignEN
+
 You don't understand french? no pb, here are the english versions
 
-[![Saisir absences](https://i.ytimg.com/vi/yOdvQovYEZE/hqdefault.jpg)](
+[![Lists](https://i.ytimg.com/vi/yOdvQovYEZE/hqdefault.jpg)](
 https://www.youtube.com/watch?v=yOdvQovYEZE)
