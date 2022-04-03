@@ -58,13 +58,10 @@ https://www.youtube.com/watch?v=tFZ0o1M-PtQ)
 # Télécharger les exemples
 Instructrices et instructeur, vous pouvez télécharger une page moodle avec les exemples.
 https://github.com/fxpar/MoodleDesignFr
-ou la version anglaise
+##  la version anglaise
+You don't understand french? no pb, here are the english versions
 https://github.com/fxpar/MoodleDesignEn
 
-# Version Anglaise
-Vous trouverez la page anglaise à l'adresse MoodleDesignEN
-
-You don't understand french? no pb, here are the english versions
 
 [![Lists](https://i.ytimg.com/vi/yOdvQovYEZE/hqdefault.jpg)](
 https://www.youtube.com/watch?v=yOdvQovYEZE)
