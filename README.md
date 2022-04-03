@@ -11,7 +11,7 @@ Téléchargez une page d'exemple et de formation au Design Moodle avec les compo
 * Cards: simple, avec image, triples
 * Alertes: exemples
 * Couleurs: exemple dans les boutons et les alertes
-* Accordéon: exemples e vidéo
+* Accordéon: exemples et vidéo
 
 
 Astuces pour designer les pages de cours.
