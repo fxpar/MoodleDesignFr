@@ -67,7 +67,13 @@ Voici l'accordéon, déjà inclus dans moodle, accessible par un simple copier c
 [![Moodle Design Accordéon](https://i.ytimg.com/vi/_GxoVIpuLuE/hqdefault.jpg)](
 https://www.youtube.com/watch?v=_GxoVIpuLuE)
 
+# Changer d'éditeur
 
+Si votre école utilise un autre éditeur pour les étiquettes, voici comment en changer:
+Cliquez sur votre nom ou votre image > préférences > préférence d'éditeur
+
+[![Moodle Design Accordéon](https://i.ytimg.com/vi/5vnGpaflLNs/hqdefault.jpg)](
+https://www.youtube.com/watch?v=5vnGpaflLNs)
 
 # Télécharger les exemples
 Instructrices et instructeur, vous pouvez télécharger une page moodle avec les exemples.
