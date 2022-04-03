@@ -40,6 +40,23 @@ Réutilisez les activités... sans avoir à les déplacer. Une bonne façon de r
 [![Moodle Design Boutons et Liens](https://i.ytimg.com/vi/73FQHTYExRw/hqdefault.jpg)](
 https://www.youtube.com/watch?v=73FQHTYExRw)
 
+# Icônes
+
+8% de la population a du mal à discerner les couleurs... Heureusement, vous pouvez apporter un indice visuel à vos boutons, et à vos activités.
+
+Et puis c'est tellement plus parlant 😁
+
+[![Moodle Icônes FontAwesome](https://i.ytimg.com/vi/tFZ0o1M-PtQ/hqdefault.jpg)](
+https://www.youtube.com/watch?v=tFZ0o1M-PtQ)
+
+# Couleurs
+Excellent pour créer des contenus en harmonie avec le reste du site de votre école.
+
+[![Moodle Icônes FontAwesome](https://i.ytimg.com/vi/F9Fw0PjaUOA/hqdefault.jpg)](
+https://www.youtube.com/watch?v=F9Fw0PjaUOA)
+
+*Rappelez à votre admin d'ajouter ces couleurs au fichier css de l'appli mobile.
+
 # Accordéon
 
 Vos étudiants se sentent parfois submergé par une longue liste d'actions à réaliser ?
@@ -50,15 +67,7 @@ Voici l'accordéon, déjà inclus dans moodle, accessible par un simple copier c
 [![Moodle Design Accordéon](https://i.ytimg.com/vi/_GxoVIpuLuE/hqdefault.jpg)](
 https://www.youtube.com/watch?v=_GxoVIpuLuE)
 
-# Icônes
 
-8% de la population a du mal à discerner les couleurs... Heureusement, vous pouvez apporter un indice visuel à vos boutons, et à vos activités.
-
-Et puis c'est tellement plus parlant 😁
-
-
-[![Moodle Icônes FontAwesome](https://i.ytimg.com/vi/tFZ0o1M-PtQ/hqdefault.jpg)](
-https://www.youtube.com/watch?v=tFZ0o1M-PtQ)
 
 # Télécharger les exemples
 Instructrices et instructeur, vous pouvez télécharger une page moodle avec les exemples.
