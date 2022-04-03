@@ -49,6 +49,7 @@ https://www.youtube.com/watch?v=_GxoVIpuLuE)
 # Icônes
 
 8% de la population a du mal à discerner les couleurs... Heureusement, vous pouvez apporter un indice visuel à vos boutons, et à vos activités.
+
 Et puis c'est tellement plus parlant 😁
 
 
@@ -57,7 +58,9 @@ https://www.youtube.com/watch?v=tFZ0o1M-PtQ)
 
 # Télécharger les exemples
 Instructrices et instructeur, vous pouvez télécharger une page moodle avec les exemples.
-https://github.com/fxpar/MoodleDesignFr
+
+C'est le fichier "sauvegarde-moodle2...mbz" situé en haut de cette page.
+
 ##  la version anglaise
 You don't understand french? no pb, here are the english versions
 https://github.com/fxpar/MoodleDesignEn
