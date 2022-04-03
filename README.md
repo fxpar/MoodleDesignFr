@@ -3,7 +3,11 @@
 ![Licence CC by nc](https://github.com/fxpar/MoodleDesignFr/blob/main/by-nc.eu.svg)
 
 # MoodleDesign FR
-Téléchargez une page d'exemple et de formation au Design Moodle avec les composants bootstrap et FontAwesome
+*Astuces de Design Moodle avec les composants Bootstrap et FontAwesome déjà inclus dans moodle*
+
+Vous trouverez ci-dessous tous les tutoriaux pour améliorer par simple copier coller le design de vos pages Moodle.
+Le fichier téléchargeable "sauvegarde-moodle2..." en haut de cette page contient un cours Moodle avec tous les exemples et les tutos.
+
 * Entêtes (jumbotron): exemple et vidéo
 * Liste: exemple et vidéo
 * Bouton: vidéo et exemple (primary, outline et danger)
