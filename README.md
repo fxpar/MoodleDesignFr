@@ -63,5 +63,7 @@ You don't understand french? no pb, here are the english versions
 https://github.com/fxpar/MoodleDesignEn
 
 
-[![Lists](https://i.ytimg.com/vi/yOdvQovYEZE/hqdefault.jpg)](
-https://www.youtube.com/watch?v=yOdvQovYEZE)
+
+# Actualité Pédagogique
+Retrouvez tout le fil des mes lectures en pédagogie sur le site : https://www.fxparlant.net/tag/pedagogie/
+
