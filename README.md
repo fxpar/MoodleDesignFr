@@ -93,7 +93,7 @@ Réutilisez les activités... sans avoir à les déplacer. Une bonne façon de r
 https://www.youtube.com/watch?v=73FQHTYExRw)
 
 <details>
-  <summary><b>Unfold to see links and code</b></summary>
+  <summary><b>Dépliez pour voir les liens et le code</b></summary>
   
 * Bootstrap Boutons: https://getbootstrap.com/docs/4.0/components/buttons/
   
@@ -117,7 +117,7 @@ https://www.youtube.com/watch?v=tFZ0o1M-PtQ)
 https://fontawesome.com/v4/icons/
 
 <details>
-  <summary><b>Unfold to see links and code</b></summary>
+  <summary><b>Dépliez pour voir les liens et le code</b></summary>
   
 * FontAwesome 4: https://fontawesome.com/v4/icons/
   
