@@ -26,12 +26,64 @@ Aérez vos instructions avec ces listes plus sympathiques
 [![Moodle Design Listes](https://i.ytimg.com/vi/JdeyVMi2W8U/hqdefault.jpg)](
 https://www.youtube.com/watch?v=JdeyVMi2W8U)
 
+<details>
+  <summary> <b>Dépliez pour voir les liens et le code</b> </summary>
+
+* Bootstrap list groups: https://getbootstrap.com/docs/4.0/components/list-group/
+
+````    
+     <ul class="list-group">
+      <li class="list-group-item active">Cras justo odio</li>
+      <li class="list-group-item">Dapibus ac facilisis in</li>
+      <li class="list-group-item">Morbi leo risus</li>
+      <li class="list-group-item">Porta ac consectetur ac</li>
+      <li class="list-group-item">Vestibulum at eros</li>
+     </ul>
+````
+
+* Bootstrap Cards Lists: https://getbootstrap.com/docs/4.0/components/card/#list-groups
+
+````
+    <div class="card" style="width: 18rem;">
+        <div class="card-header">
+          Featured
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Cras justo odio</li>
+          <li class="list-group-item">Dapibus ac facilisis in</li>
+          <li class="list-group-item">Vestibulum at eros</li>
+        </ul>
+    </div>
+    
+````
+  
+</details>
+
 # Entêtes
 
 Affichez clairement le thème d'une séance, et énoncez les objectifs en mode grand format.
 
 [![Moodle Bootstrap Entête Jumbotron](https://i.ytimg.com/vi/MjYRA2s07C0/hqdefault.jpg)](
 https://www.youtube.com/watch?v=MjYRA2s07C0)
+
+<details>
+  <summary><b>Dépliez pour voir les liens et le code</b></summary>
+  
+* Bootstrap 4 Entête: Le magnifique "Jumbotron" : https://getbootstrap.com/docs/4.0/components/jumbotron/
+  
+````
+    <div class="jumbotron">
+      <h1 class="display-4">Hello, world!</h1>
+      <p class="lead">This is a simple hero unit, a simple jumbotron-style component for calling extra attention to featured content or information.</p>
+      <hr class="my-4">
+      <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
+      <p class="lead">
+        <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+      </p>
+    </div>
+````
+  
+  </details>
 
 # Boutons et Liens
 
