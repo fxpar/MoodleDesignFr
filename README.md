@@ -92,6 +92,19 @@ Réutilisez les activités... sans avoir à les déplacer. Une bonne façon de r
 [![Moodle Design Boutons et Liens](https://i.ytimg.com/vi/73FQHTYExRw/hqdefault.jpg)](
 https://www.youtube.com/watch?v=73FQHTYExRw)
 
+<details>
+  <summary><b>Unfold to see links and code</b></summary>
+  
+* Bootstrap Boutons: https://getbootstrap.com/docs/4.0/components/buttons/
+  
+````
+    <button type="button" class="btn btn-primary">Primary</button>
+    <button type="button" class="btn btn-outline-secondary">Secondary</button>
+    <button type="button" class="btn btn-success">Success</button>
+````
+  
+  </details>
+
 # Icônes
 
 8% de la population a du mal à discerner les couleurs... Heureusement, vous pouvez apporter un indice visuel à vos boutons, et à vos activités.
@@ -100,6 +113,19 @@ Et puis c'est tellement plus parlant 😁
 
 [![Moodle Icônes FontAwesome](https://i.ytimg.com/vi/tFZ0o1M-PtQ/hqdefault.jpg)](
 https://www.youtube.com/watch?v=tFZ0o1M-PtQ)
+
+https://fontawesome.com/v4/icons/
+
+<details>
+  <summary><b>Unfold to see links and code</b></summary>
+  
+* FontAwesome 4: https://fontawesome.com/v4/icons/
+  
+``<i class="fa fa-address-book" aria-hidden="true"></i>``
+  Pour des raisons d'accessibilité le code suivant serait toutefois préférable:
+``<span class="fa fa-address-book" aria-hidden="true"></span>``
+  
+  </details>
 
 # Couleurs
 Excellent pour créer des contenus en harmonie avec le reste du site de votre école.
