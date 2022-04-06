@@ -96,13 +96,22 @@ https://www.youtube.com/watch?v=73FQHTYExRw)
   <summary><b>Dépliez pour voir les liens et le code</b></summary>
   
 * Bootstrap Boutons: https://getbootstrap.com/docs/4.0/components/buttons/
+
+Officiellement, on utiliserait des boutons.
   
 ````
     <button type="button" class="btn btn-primary">Primary</button>
     <button type="button" class="btn btn-outline-secondary">Secondary</button>
     <button type="button" class="btn btn-success">Success</button>
 ````
-  
+
+Toutefois je préfère utiliser des liens:
+    
+````
+    <a href="#" type="button" class="btn btn-primary">Primary</a>
+    <a href="#" type="button" class="btn btn-outline-secondary">Secondary</a>
+    <a href="#" type="button" class="btn btn-success">Success</a>
+````
   </details>
 
 # Icônes
