@@ -14,16 +14,16 @@ https://www.youtube.com/watch?v=RGtL9lzEeq0)
 Vous trouverez ci-dessous tous les tutoriaux pour améliorer par simple copier coller le design de vos pages Moodle.
 Le fichier téléchargeable "sauvegarde-moodle2..." en haut de cette page contient un cours Moodle avec tous les exemples et les tutos.
 
-* Entêtes (jumbotron): exemple et vidéo
+* [Entêtes](#entêtes) (jumbotron): exemple et vidéo
 * [Liste](#listes): exemple et vidéo
-* Bouton: vidéo et exemple (primary, outline et danger)
-* Icônes: vidéo et exemples
+* [Boutons](#boutons-et-liens): vidéo et exemple (primary, outline et danger)
+* [Icônes](#icônes): vidéo et exemples
 * Cards: simple, avec image, triples
-* Alertes: exemples
-* Couleurs: exemple dans les boutons et les alertes
-* Accordéon: exemples et vidéo
-* Popovers
-* Onglets (tabs):
+* Alertes (voir [couleurs](#couleurs)): exemples
+* [Couleurs](#couleurs): exemple dans les boutons et les alertes
+* [Accordéon](#accordeon): exemples et vidéo
+* [Popovers](#tooltips-popover)
+* [Onglets (tabs)](#onglets-tabs):
 
 
 Astuces pour designer les pages de cours.
