@@ -21,9 +21,9 @@ Le fichier téléchargeable "sauvegarde-moodle2..." en haut de cette page contie
 * Cards: simple, avec image, triples
 * Alertes (voir [couleurs](#couleurs)): exemples
 * [Couleurs](#couleurs): exemple dans les boutons et les alertes
-* [Accordéon](#accordeon): exemples et vidéo
-* [Popovers](#tooltips-popover)
-* [Onglets (tabs)](#onglets-tabs):
+* [Accordéon](#accordéon): exemples et vidéo
+* [Popovers](#tooltips-popover): code
+* [Onglets](#onglet-tabs): code
 
 
 Astuces pour designer les pages de cours.
