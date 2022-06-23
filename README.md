@@ -24,6 +24,7 @@ Le fichier téléchargeable "sauvegarde-moodle2..." en haut de cette page contie
 * [Accordéon](#accordéon): exemples et vidéo
 * [Popovers](#tooltips-popover): code
 * [Onglets](#onglet-tabs): code
+* [Carousel](#carousel): code
 
 
 Astuces pour designer les pages de cours.
@@ -211,10 +212,40 @@ Tabs: https://getbootstrap.com/docs/4.0/components/navs/#tabs
 </details>
 
 
+# Carousel
 
+Faites tourner les images, les questions de quiz, ou permettez l'approfondissement en balayant l'écran avec le carousel.
 
+Carousel: https://getbootstrap.com/docs/4.0/components/carousel/
 
+<details>
+  <summary><b>Dépliez pour voir les liens et le code</b></summary>
+  
+```` 
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="..." alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="..." alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
 
+````
+</details>
 
 # Changer d'éditeur
 
