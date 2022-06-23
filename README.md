@@ -132,7 +132,7 @@ Et puis c'est tellement plus parlant 😁
 [![Moodle Icônes FontAwesome](https://i.ytimg.com/vi/tFZ0o1M-PtQ/hqdefault.jpg)](
 https://www.youtube.com/watch?v=tFZ0o1M-PtQ)
 
-https://fontawesome.com/v4/icons/
+
 
 <details>
   <summary><b>Dépliez pour voir les liens et le code</b></summary>
@@ -186,10 +186,12 @@ Notez que dans l'exemple suivant, j'ai utilisé un "badge" au lieu d'un bouton, 
 # Onglet (Tabs)
 
 Pour afficher plusieurs options d'un même thème, les onglets (comme un classeur) s'avèrent très utiles.
-Tabs: https://getbootstrap.com/docs/4.0/components/navs/#tabs
+
 
 <details>
   <summary><b>Dépliez pour voir les liens et le code</b></summary>
+
+Tabs: https://getbootstrap.com/docs/4.0/components/navs/#tabs
   
 ````  
 <ul class="nav nav-tabs" id="myTab" role="tablist">
@@ -216,10 +218,13 @@ Tabs: https://getbootstrap.com/docs/4.0/components/navs/#tabs
 
 Faites tourner les images, les questions de quiz, ou permettez l'approfondissement en balayant l'écran avec le carousel.
 
-Carousel: https://getbootstrap.com/docs/4.0/components/carousel/
+
 
 <details>
   <summary><b>Dépliez pour voir les liens et le code</b></summary>
+
+Carousel: https://getbootstrap.com/docs/4.0/components/carousel/
+
   
 ```` 
 <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
