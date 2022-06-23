@@ -15,13 +15,15 @@ Vous trouverez ci-dessous tous les tutoriaux pour améliorer par simple copier c
 Le fichier téléchargeable "sauvegarde-moodle2..." en haut de cette page contient un cours Moodle avec tous les exemples et les tutos.
 
 * Entêtes (jumbotron): exemple et vidéo
-* Liste: exemple et vidéo
+* [Liste](#listes): exemple et vidéo
 * Bouton: vidéo et exemple (primary, outline et danger)
 * Icônes: vidéo et exemples
 * Cards: simple, avec image, triples
 * Alertes: exemples
 * Couleurs: exemple dans les boutons et les alertes
 * Accordéon: exemples et vidéo
+* Popovers
+* Onglets (tabs):
 
 
 Astuces pour designer les pages de cours.
