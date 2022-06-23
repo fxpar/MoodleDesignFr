@@ -2,6 +2,12 @@
 
 ![Licence CC by nc](https://github.com/fxpar/MoodleDesignFr/blob/main/by-nc.eu.svg)
 
+
+[![Moodle Design](https://i.ytimg.com/vi/RGtL9lzEeq0/hqdefault.jpg)](
+https://www.youtube.com/watch?v=RGtL9lzEeq0)
+
+
+
 # MoodleDesign FR
 *Astuces de Design Moodle avec les composants Bootstrap et FontAwesome déjà inclus dans moodle*
 
@@ -146,13 +152,67 @@ https://www.youtube.com/watch?v=F9Fw0PjaUOA)
 
 # Accordéon
 
-Vos étudiants se sentent parfois submergé par une longue liste d'actions à réaliser ?
+Vos étudiants se sentent parfois submergés par une longue liste d'actions à réaliser ?
 Vous aimeriez qu'ils ou elles puissent afficher progressivement les ressources que vous leur avez préparé?
 Voici l'accordéon, déjà inclus dans moodle, accessible par un simple copier coller 😍
 
 
 [![Moodle Design Accordéon](https://i.ytimg.com/vi/_GxoVIpuLuE/hqdefault.jpg)](
 https://www.youtube.com/watch?v=_GxoVIpuLuE)
+
+
+# Tooltips Popover
+
+Vous voulez ajouter des étiquettes pour expliquer à quoi sert un bouton. Normalement, les tooltips sont les outils qu'ils vous faut. Malheureusement, cela n'a pas l'air de fonctionner dans Moodle 3. PAr contre, l'autre outil qui fait cela est déjà inclus dans Moodle: ce sont les popovers qui affiche l'aide sur les point d'interrogation dans les les options.
+
+* Tooltips: https://getbootstrap.com/docs/4.0/components/tooltips/
+* Popovers: https://getbootstrap.com/docs/4.0/components/popovers/
+
+Notez que dans l'exemple suivant, j'ai utilisé un "badge" au lieu d'un bouton, et j'ai choisi de le déclencher en passant la souris au dessus ("hover"). Enfin, j'ai mis du html dans mon étiquette avec la balise "b".
+
+<details>
+  <summary><b>Dépliez pour voir les liens et le code</b></summary>
+  
+````  
+<span class="badge badge-dark" role="button" data-container="body" data-toggle="popover" data-placement="top" data-html="true" tabindex="0" data-trigger="hover" data-original-title="" title="" data-content="<b>Durée totale</b> du parcours">⏱️ 6h</span>
+````
+</details>
+
+
+
+# Onglet (Tabs)
+
+Pour afficher plusieurs options d'un même thème, les onglets (comme un classeur) s'avèrent très utiles.
+Tabs: https://getbootstrap.com/docs/4.0/components/navs/#tabs
+
+<details>
+  <summary><b>Dépliez pour voir les liens et le code</b></summary>
+  
+````  
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="home-tab" data-toggle="tab" href="#home" role="tab" aria-controls="home" aria-selected="true">Home</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="false">Profile</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Contact</a>
+  </li>
+</ul>
+<div class="tab-content" id="myTabContent">
+  <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">...</div>
+  <div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">...</div>
+  <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
+</div>
+````
+</details>
+
+
+
+
+
+
 
 # Changer d'éditeur
 
