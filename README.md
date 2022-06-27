@@ -32,8 +32,8 @@ Astuces pour designer les pages de cours.
 # Listes
 Aérez vos instructions avec ces listes plus sympathiques
 
-[![Moodle Design Listes](https://i.ytimg.com/vi/JdeyVMi2W8U/hqdefault.jpg)](
-https://www.youtube.com/watch?v=JdeyVMi2W8U)
+[![Moodle Design Listes](https://i.ytimg.com/vi/gbjehUd36GU/hqdefault.jpg)](
+https://www.youtube.com/watch?v=gbjehUd36GU)
 
 <details>
   <summary> <b>Dépliez pour voir les liens et le code</b> </summary>
@@ -72,8 +72,9 @@ https://www.youtube.com/watch?v=JdeyVMi2W8U)
 
 Affichez clairement le thème d'une séance, et énoncez les objectifs en mode grand format.
 
-[![Moodle Bootstrap Entête Jumbotron](https://i.ytimg.com/vi/MjYRA2s07C0/hqdefault.jpg)](
-https://www.youtube.com/watch?v=MjYRA2s07C0)
+
+[![Moodle Bootstrap Entête Jumbotron](https://i.ytimg.com/vi/akNsaCv8k4c/hqdefault.jpg)](
+https://www.youtube.com/watch?v=akNsaCv8k4c)
 
 <details>
   <summary><b>Dépliez pour voir les liens et le code</b></summary>
@@ -129,8 +130,8 @@ Toutefois je préfère utiliser des liens:
 
 Et puis c'est tellement plus parlant 😁
 
-[![Moodle Icônes FontAwesome](https://i.ytimg.com/vi/tFZ0o1M-PtQ/hqdefault.jpg)](
-https://www.youtube.com/watch?v=tFZ0o1M-PtQ)
+[![Moodle Icônes FontAwesome](https://i.ytimg.com/vi/d1UE_9AcWd0/hqdefault.jpg)](
+https://www.youtube.com/watch?v=d1UE_9AcWd0)
 
 
 
@@ -148,8 +149,8 @@ https://www.youtube.com/watch?v=tFZ0o1M-PtQ)
 # Couleurs
 Excellent pour créer des contenus en harmonie avec le reste du site de votre école.
 
-[![Moodle Icônes FontAwesome](https://i.ytimg.com/vi/F9Fw0PjaUOA/hqdefault.jpg)](
-https://www.youtube.com/watch?v=F9Fw0PjaUOA)
+[![Moodle Couleurs](https://i.ytimg.com/vi/vcQ4wdHebsM/hqdefault.jpg)](
+https://www.youtube.com/watch?v=vcQ4wdHebsM)
 
 *Rappelez à votre admin d'ajouter ces couleurs au fichier css de l'appli mobile.
 
@@ -160,8 +161,8 @@ Vous aimeriez qu'ils ou elles puissent afficher progressivement les ressources q
 Voici l'accordéon, déjà inclus dans moodle, accessible par un simple copier coller 😍
 
 
-[![Moodle Design Accordéon](https://i.ytimg.com/vi/_GxoVIpuLuE/hqdefault.jpg)](
-https://www.youtube.com/watch?v=_GxoVIpuLuE)
+[![Moodle Design Accordéon](https://i.ytimg.com/vi/LjNU3fgSn3s/hqdefault.jpg)](
+https://www.youtube.com/watch?v=LjNU3fgSn3s)
 
 
 # Tooltips Popover
