@@ -99,8 +99,8 @@ https://www.youtube.com/watch?v=akNsaCv8k4c)
 
 Réutilisez les activités... sans avoir à les déplacer. Une bonne façon de rappeler les étapes d'une préparation aux étudiants.
 
-[![Moodle Design Boutons et Liens](https://i.ytimg.com/vi/73FQHTYExRw/hqdefault.jpg)](
-https://www.youtube.com/watch?v=73FQHTYExRw)
+[![Moodle Design Boutons et Liens](https://i.ytimg.com/vi/3TFrNehPdiw/hqdefault.jpg)](
+https://www.youtube.com/watch?v=3TFrNehPdiw)
 
 <details>
   <summary><b>Dépliez pour voir les liens et le code</b></summary>
