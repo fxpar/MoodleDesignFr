@@ -2,9 +2,12 @@
 
 ![Licence CC by nc](https://github.com/fxpar/MoodleDesignFr/blob/main/by-nc.eu.svg)
 
+# Démo en vidéo 
 
-[![Moodle Design](https://i.ytimg.com/vi/RGtL9lzEeq0/hqdefault.jpg)](
-https://www.youtube.com/watch?v=RGtL9lzEeq0)
+Voici les éléments qui seront présentés ensuite.
+
+[![Moodle Design](https://i.ytimg.com/vi/Uz7XbIxHf-4/hqdefault.jpg)](
+https://www.youtube.com/watch?v=Uz7XbIxHf-4)
 
 
 
