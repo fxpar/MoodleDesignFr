@@ -4,7 +4,7 @@
 
 # Démo en vidéo 
 
-Voici les éléments qui seront présentés ensuite.
+Voici les éléments qui seront détaillés ensuite.
 
 [![Moodle Design](https://i.ytimg.com/vi/Uz7XbIxHf-4/hqdefault.jpg)](
 https://www.youtube.com/watch?v=Uz7XbIxHf-4)
