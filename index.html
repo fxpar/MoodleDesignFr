@@ -29,7 +29,8 @@
 
 <!-- permet de réduire à 50% sur ordinateur -->
 <div class="container ">
-
+<noscript>Cette page est une démo de Bootstrap (normalement inclus dans Moodle). Pour voir les animations je vous invite à autoriser <b>jsdelivr</b> pour Bootstrap, popper (placement des étiquette) et jquery. Les videos de tutoriel sont hébergées sur Youtube (les quelques pubs me payent mon café ☕). La section Sur les icônes nécessite fontawesome (normalement aussi inclus dans Moodle).
+<br>N'oubliez pas de désactiver ces scripts une fois votre navigation terminée 👍</noscript>
 
 <!-- INTRO -->
 
@@ -42,6 +43,10 @@
 
 </div>
 
+<div class="alert alert-secondary">
+	Ce projet de formation est open source, téléchargeable sur Github.
+	<button role="button" class="btn btn-success" href="https://github.com/fxpar/MoodleDesignFr">voir le projet</button>
+</div>
 
 
 <!-- 
@@ -262,12 +267,32 @@
       </h5>
     </div>
 
-    <div id="collapseColorsCode" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionColorsCode">
+    <div id="collapseColorsCode" class="collapse" aria-labelledby="headingOne" data-parent="#accordionColorsCode">
       <div class="card-body">
-		<pre><code>
-
-
-		</code></pre>
+ <pre><code data-lang="html">&lt;div class="alert alert-primary" role="alert"&gt;
+  This is a primary alert—check it out!
+&lt;/div&gt;
+&lt;div class="alert alert-secondary" role="alert"&gt;
+  This is a secondary alert—check it out!
+&lt;/div&gt;
+&lt;div class="alert alert-success" role="alert"&gt;
+  This is a success alert—check it out!
+&lt;/div&gt;
+&lt;div class="alert alert-danger" role="alert"&gt;
+  This is a danger alert—check it out!
+&lt;/div&gt;
+&lt;div class="alert alert-warning" role="alert"&gt;
+  This is a warning alert—check it out!
+&lt;/div&gt;
+&lt;div class="alert alert-info" role="alert"&gt;
+  This is a info alert—check it out!
+&lt;/div&gt;
+&lt;div class="alert alert-light" role="alert"&gt;
+  This is a light alert—check it out!
+&lt;/div&gt;
+&lt;div class="alert alert-dark" role="alert"&gt;
+  This is a dark alert—check it out!
+&lt;/div&gt;</code></pre>
       </div>
     </div>
   </div>
@@ -318,6 +343,28 @@
 	
 <!-- Boutons Code -->
 
+<div id="accordionButtonsCode">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseButtonsCode" aria-expanded="true" aria-controls="collapseButtonsCode">
+          Afficher le code
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseButtonsCode" class="collapse" aria-labelledby="headingOne" data-parent="#accordionButtonsCode">
+      <div class="card-body">
+ <pre><code data-lang="html">
+ <div>&lt;button class="btn btn-primary"&gt;Réviser&lt;/button&gt; <br></div>
+<div>&lt;button class="btn btn-secondary"&gt;S'entrainer&lt;/button&gt; <br></div>
+<div>&lt;button class="btn btn-outline-success"&gt;Solution&lt;/button&gt;</div>
+ </code></pre>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
 
@@ -334,7 +381,7 @@
 
 <div class="bg-light p-md-5 rounded-lg mt-3" id="sectionIcones">
     <h1 class="display-3 fluid">Insérez des icônes</h1>
-    <p class="lead">Fontawesom est inclus dans Moodle pour permettre l'ajout d'une signalétique simple et comprise par tous..</p>
+    <p class="lead">Fontawesome est inclus dans Moodle pour permettre l'ajout d'une signalétique simple et comprise par tous.</p>
     <hr class="my-4">
     <p>N'hésitez pas à creuser les codes pour améliorer la taille et la couleur de vos icônes.</p>
 		
@@ -363,6 +410,29 @@
 	
 <!-- Icônes Code -->
 
+
+<div id="accordionIconsCode">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseIconsCode" aria-expanded="true" aria-controls="collapseIconsCode">
+          Afficher le code
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseIconsCode" class="collapse" aria-labelledby="headingOne" data-parent="#accordionIconsCode">
+      <div class="card-body">
+ <pre><code data-lang="html">
+<p dir="ltr" style="text-align: left;">&lt;i class="fa fa-file-excel-o"&gt;&lt;/i&gt;</p>
+<p dir="ltr" style="text-align: left;"></p>
+<p dir="ltr">&lt;span class="fa fa-globe"&gt;&lt;/span&gt;<br></p><br>
+<p></p>
+ </code></pre>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
@@ -438,7 +508,7 @@
     </div>
   </div>
 </div>
-<p><br></p>
+
 
 <!-- Accordion Tuto -->
 	<div class="card  mt-2" style="">
@@ -455,6 +525,73 @@
 	
 <!-- Accordéon Code -->
 
+<div id="accordionAccordionCode">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseAccordionCode" aria-expanded="true" aria-controls="collapseAccordionCode">
+          Afficher le code
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseAccordionCode" class="collapse" aria-labelledby="headingOne" data-parent="#accordionAccordionCode">
+      <div class="card-body">
+
+
+   <pre><code data-lang="html">
+ &lt;div id="accordion"&gt;
+  &lt;div class="card"&gt;
+    &lt;div class="card-header" id="headingOne"&gt;
+      &lt;h5 class="mb-0"&gt;
+        &lt;button class="btn btn-link" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne"&gt;
+          Collapsible Group Item #1
+        &lt;/button&gt;
+      &lt;/h5&gt;
+    &lt;/div&gt;
+
+    &lt;div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion"&gt;
+      &lt;div class="card-body"&gt;
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="card"&gt;
+    &lt;div class="card-header" id="headingTwo"&gt;
+      &lt;h5 class="mb-0"&gt;
+        &lt;button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"&gt;
+          Collapsible Group Item #2
+        &lt;/button&gt;
+      &lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion"&gt;
+      &lt;div class="card-body"&gt;
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="card"&gt;
+    &lt;div class="card-header" id="headingThree"&gt;
+      &lt;h5 class="mb-0"&gt;
+        &lt;button class="btn btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"&gt;
+          Collapsible Group Item #3
+        &lt;/button&gt;
+      &lt;/h5&gt;
+    &lt;/div&gt;
+    &lt;div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion"&gt;
+      &lt;div class="card-body"&gt;
+        Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</code></pre>
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
@@ -525,7 +662,7 @@
 
                 <!-- fin des tabs -->
 
-<p><br></p>
+
 <!-- Tabs Tuto -->
 	<div class="card  mt-2 hidden d-none" style="">
 		<div class="card-body">
@@ -541,6 +678,49 @@
 	
 <!-- TAbs Code -->
 
+
+
+<div id="accordionTabsCode">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseTabsCode" aria-expanded="true" aria-controls="collapseTabsCode">
+          Afficher le code
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseTabsCode" class="collapse" aria-labelledby="headingOne" data-parent="#accordionTabsCode">
+      <div class="card-body">
+ <pre><code data-lang="html">
+
+
+<br><br>                &lt;p&gt;&lt;br&gt;&lt;/p&gt;<br>                &lt;div class="card-header"&gt;<br>                   
+&lt;ul class="nav nav-pills card-header-pills" style="list-style-type: none;"&gt;<br>                        &lt;li class="nav-item"&gt;<br>                           
+&lt;a class="nav-link  active show" data-toggle="tab" href="#menu1"&gt;Management&lt;/a&gt;<br>                        &lt;/li&gt;<br>                       
+&lt;li class="nav-item"&gt;<br>                            &lt;a class="nav-link" data-toggle="tab" href="#menu2"&gt;Marketing&lt;/a&gt;<br>                       
+&lt;/li&gt;<br>                        &lt;li class="nav-item"&gt;<br>                           
+&lt;a class="nav-link" data-toggle="tab" href="#menu3"&gt;Finance&lt;/a&gt;<br>                        &lt;/li&gt;<br><br>                   
+&lt;/ul&gt;<br>                &lt;/div&gt;<br><br>                &lt;div class="tab-content border-left
+border-right border-bottom p-3"&gt;<br>                    &lt;div id="menu1" class="tab-pane fade in active show"&gt;<br>                       
+&lt;h3 class="display-4"&gt;Gestion des ventes&lt;/h3&gt;<br>                        &lt;p class="lead"&gt;Un délicieux exercice de suivi
+des ventes pour accompagner la direction de votre région.&lt;/p&gt;<br>                        &lt;button class="btn btn-success"&gt;Sujet&lt;/button&gt;
+&lt;button class="btn btn-border-success"&gt;Corrigé&lt;/button&gt;<br>                    &lt;/div&gt;<br>                   
+&lt;div id="menu2" class="tab-pane fade"&gt;<br>                        &lt;h3 class="display-4"&gt;Suivi des followers&lt;/h3&gt;<br>                       
+&lt;p class="lead"&gt;créez un reporting d'activité sur les réseaux sociaux.&lt;/p&gt;<br>                        &lt;button class="btn
+btn-primary"&gt;Sujet&lt;/button&gt; &lt;button class="btn btn-border-primary"&gt;Corrigé&lt;/button&gt;<br>                    &lt;/div&gt;<br>                   
+&lt;div id="menu3" class="tab-pane fade "&gt;<br>                        &lt;h3 class="display-4"&gt;Gestion de trésorerie&lt;/h3&gt;<br>                       
+&lt;p class="lead"&gt;Ton entreprise va-t-elle fonctionner si certaines rentrées d'argent son différées?&lt;/p&gt;<br>                       
+&lt;button class="btn btn-secondary"&gt;Sujet&lt;/button&gt; &lt;button class="btn btn-border-secondary"&gt;Corrigé&lt;/button&gt;<br>                    &lt;/div&gt;<br><br>               
+&lt;/div&gt;<br><br><br>
+<p dir="ltr" style="text-align: left;"><br></p>
+
+
+ </code></pre>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
@@ -642,13 +822,52 @@
 
     </div>
 </div>
-<p><br></p>
 
-<p><br></p>
 <!-- Carousel Tuto -->
 
 	
 <!-- Carousel Code -->
+
+<div id="accordionCarouselCode">
+  <div class="card">
+    <div class="card-header" id="headingOne">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#collapseCarouselCode" aria-expanded="true" aria-controls="collapseCarouselCode">
+          Afficher le code
+        </button>
+      </h5>
+    </div>
+
+    <div id="collapseCarouselCode" class="collapse" aria-labelledby="headingOne" data-parent="#accordionCarouselCode">
+      <div class="card-body">
+<pre><code data-lang="html">
+&lt;div id="carouselExampleControls" class="carousel slide" data-ride="carousel"&gt;
+  &lt;div class="carousel-inner"&gt;
+    &lt;div class="carousel-item active"&gt;
+      &lt;img class="d-block w-100" src="..." alt="First slide"&gt;
+    &lt;/div&gt;
+    &lt;div class="carousel-item"&gt;
+      &lt;img class="d-block w-100" src="..." alt="Second slide"&gt;
+    &lt;/div&gt;
+    &lt;div class="carousel-item"&gt;
+      &lt;img class="d-block w-100" src="..." alt="Third slide"&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev"&gt;
+    &lt;span class="carousel-control-prev-icon" aria-hidden="true"&gt;&lt;/span&gt;
+    &lt;span class="sr-only"&gt;Previous&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next"&gt;
+    &lt;span class="carousel-control-next-icon" aria-hidden="true"&gt;&lt;/span&gt;
+    &lt;span class="sr-only"&gt;Next&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+</code></pre>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 
 
